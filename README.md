@@ -7,3 +7,10 @@
 - [简体中文](README.zh_CN.md)
 - [日本語](README.ja_JP.md)
 
+Since December 2020. I started to learn the Rust programming language.
+
+So, the main recode will be Rust until I mast it.
+
+And you can found them here.
+
+- [Rust programming language](rust/README.md)
