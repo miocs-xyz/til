@@ -34,7 +34,7 @@ Rust作为低级开发语言，可以说**只有你想不到的，没有它做�
 
 首先我想学习的是使用Rust来做网站程序开发。
 
-- [Web Application](web)
+- [Web Application](web/README.zh_cn.md)
 
   
 

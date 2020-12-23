@@ -35,4 +35,4 @@ Rustはローレベル開発言語として基本**なんでもできます**。
 
 まず自分が勉強したいのはRustでのウェブアプリ開発になります。
 
-- [Web Application](web)
+- [Web Application](web/README.ja_jp.md)
