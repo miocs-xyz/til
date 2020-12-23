@@ -1,1 +1,0 @@
-# 今日勉強したもの(Today I Learned)
