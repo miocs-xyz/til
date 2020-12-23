@@ -12,4 +12,4 @@ actix_web并不视图引擎所以我们要使用askama来生成页面。
 **这个简单的CMS程序的代码全部公开在下面的链接**
 - [iciclog](https://bitbucket.org/miocs-xyz/iciclog/src/main/)
 
-## 如何使用actix_web?
+1.[如何开始](1_how_to_start.zh_cn.md)
