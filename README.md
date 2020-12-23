@@ -1,6 +1,13 @@
 # Today I learned
 
-## I will record all technologies which I learned here every day. 
+---
+Hello every one. My name is Julian Zhao.
+
+I'm a programmer from Chinese. 
+
+When I lived in Japanese, I saw many people use Github to build their **Today I learned**.
+
+And from today, I will build mine **Today I learned** for recording all technologies which I learned every day.
 
 **Can't read English? Don't worry. We also have the other language:**
 
