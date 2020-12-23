@@ -5,7 +5,7 @@ Hello every one. My name is Julian Zhao.
 
 I'm a programmer from Chinese. 
 
-When I lived in Japanese, I saw many people use Github to build their **Today I learned**.
+When I lived in Japan, I saw many people use Github to build their **Today I learned**.
 
 And from today, I will build mine **Today I learned** for recording all technologies which I learned every day.
 
