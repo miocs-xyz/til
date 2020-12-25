@@ -27,3 +27,8 @@ I use the tools listed later for developing rust application.
   (Paid)
   
 ## What should we do use Rust?
+
+Because Rust is a low-level programming language, so we can use it in anywhere.
+
+- [Web Application](web)
+- [GUI](GUI)
