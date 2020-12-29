@@ -22,6 +22,10 @@ And you can found them here.
 
 - [Rust programming language](rust/)
 
+**12/29/2020**
+
+I meet the Jupyter, and I think it's better to show the code I learned. So, from today. I'll use Jupyter a lot.
+
 ## Index
 The crates I used in my demonstrations.
 ### Web Application Development
