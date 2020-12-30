@@ -7,3 +7,5 @@
 僕はこれからRustを勉強しようと思っています。ですから、僕がRustをマスタするまで、Rustをメインとして記録したいと思います。
 
 [Rust開発言語](rust/README.ja_jp.md)
+
+[Kotlin開発言語](Kotlin/README.ja_jp.md)
