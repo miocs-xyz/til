@@ -42,7 +42,8 @@ Rustはローレベル開発言語として基本**なんでもできます**。
 [構造体](Basic/rust_struct.ja_jp.ipynb)
 
 
-
-
 - [Web Application](web/README.ja_jp.md)
+
+ビデオ埋め込みテスト
+[![Little red ridning hood]()](https://vimeo.com/501149483 "RustでWebアプリケーションを開発する（１）")
 
