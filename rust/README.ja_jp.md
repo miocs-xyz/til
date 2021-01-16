@@ -45,5 +45,5 @@ Rustはローレベル開発言語として基本**なんでもできます**。
 - [Web Application](web/README.ja_jp.md)
 
 ビデオ埋め込みテスト
-[![Little red ridning hood]()](https://vimeo.com/501149483 "RustでWebアプリケーションを開発する（１）")
 
+[![RustでWebアプリケーションを開発する（１）](https://res.cloudinary.com/marcomontalbano/image/upload/v1610790720/video_to_markdown/images/vimeo--501149483-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/501149483 "RustでWebアプリケーションを開発する（１）")
